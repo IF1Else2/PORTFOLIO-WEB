@@ -27,6 +27,7 @@ body {
   transform: translateY(0);
 }
 
+
 /* Content Box*/
 
 .content-box {
@@ -127,7 +128,10 @@ body {
   box-shadow: 0 8px 20px rgba(212,44,100,0.5);
 }
 
-
+.tech-section {
+  background-color: #2b1620; 
+  padding: 40px 20px;        
+}
 /* MEDIA QUERIES*/
 
 @media (max-width: 1024px) {
